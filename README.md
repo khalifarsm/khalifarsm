@@ -49,27 +49,43 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 #### 🌐 Frontend : <br />
 
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?style=flat-square&logo=Thymeleaf)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3)
+![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap)
 
 #### ✨ Backend : <br />
 
-![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![Spring](http://img.shields.io/badge/-Spring-05122A?style=flat-square&logo=Spring)
+![ELK](http://img.shields.io/badge/-ELK-05122A?style=flat-square&logo=Elastic)
+![Redis](http://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis)
+![Cassandra](http://img.shields.io/badge/-Cassandra-05122A?style=flat-square&logo=Apache-Cassandra)
+![MongoDB](http://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](http://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=4479A1)
+![Kafka](http://img.shields.io/badge/-Kafka-05122A?style=flat-square&logo=Apache-Kafka)
+![RabbitMQ](http://img.shields.io/badge/-RabbbitMQ-05122A?style=flat-square&logo=RabbitMQ)
+
+#### 🛠 Payment Integration <br />
+
+![PayPal](http://img.shields.io/badge/-PayPal-05122A?style=flat-square&logo=PayPal)
+![Stripe](http://img.shields.io/badge/-Stripe-05122A?style=flat-square&logo=Stripe)
+
+#### 🛠 CLOUD <br />
+
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=Google-Cloud)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=Amazon-AWS)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)
 
 #### 🛠 OS & IDE & Tools <br />
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=khalifarsm/khalifarsm)
 
